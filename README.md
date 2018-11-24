@@ -1,5 +1,5 @@
 # Week-5
-Your [TalkCode]
+[TalkCode]
 
 ## 1. User Stories (Required and Optional)
 
